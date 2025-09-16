@@ -34,7 +34,7 @@ const ProductDetails = () => {
       id: 3,
       name: "Gayathri",
       date: "10 Dec 2023",
-      rating: 3,
+      rating: 5,
       text: "Very good and awesome product",
       avatar: "https://ui-avatars.com/api/?name=Atharva+Kumar&background=F31260&color=fff",
     },
