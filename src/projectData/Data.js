@@ -180,7 +180,7 @@ const productsData = [
         ],
         brand: "boAt",
         title: "boAt Rockerz 410",
-        info: "Bluetooth  Wired On-Ear Headphones",
+        info: "Bluetooth & Wired On-Ear Headphones",
         category: "Headphones",
         type: "On Ear",
         connectivity: "Bluetooth & Wired",
