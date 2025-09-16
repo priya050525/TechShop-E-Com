@@ -32,7 +32,7 @@ export const SliderData = [
         tag: "hero-product",
         tagline: "Featherweight for comfort all-day.",
         heroImage: Second,
-        images: Third,
+        images: Thrd,
         brand: "boAt",
         title: "boAt Airdopes 131",
         info: "Wireless In-Ear Earbuds",
