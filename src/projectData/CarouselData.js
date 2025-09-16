@@ -14,7 +14,7 @@ export const SliderData = [
               images:firsts,
                   
             
-              brand: "JBL",
+              brand: "JhL",
               title: "JBL Live 660NC",
               info: "Wireless Over-Ear NC Headphones",
               category: "Headphones",
