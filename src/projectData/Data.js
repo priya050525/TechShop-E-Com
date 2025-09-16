@@ -200,7 +200,7 @@ const productsData = [
             twentyFive,
         ],
         brand: "JBL",
-        title: "JBL Live 200BT"
+        title: "JBL Live 200BT",
         info: "In-Ear Wireless Neckbands",
         category: "Neckbands",
         type: "In Ear",
