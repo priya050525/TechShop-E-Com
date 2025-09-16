@@ -8,7 +8,7 @@ import thirteens from "../images/products/jbl760nc-1.png";
 export const SliderData = [
   {
        id: 1,
-              tag: "hero-product",
+              tag: "heroProduct",
               tagline: "Keep the noise out, or in. You choose.",
               heroImage: "/images/products/jbl660nc-1.png",
               images:firsts,
