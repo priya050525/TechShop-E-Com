@@ -20,7 +20,7 @@ export const SliderData = [
               category: "Headphones",
               type: "Over Ear",
               connectivity: "Wireless",
-              finalPrice: 4444,
+              finalPrice: 9999,
               originalPrice: 14999,
               quantity: 1,
               ratings: 1234,
