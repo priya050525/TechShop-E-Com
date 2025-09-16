@@ -118,7 +118,7 @@ const productsData = [
         category: "Headphones",
         type: "On Ear",
         connectivity: "Wireless",
-        finalPrice: 1299,
+        finalPrice: 199,
         originalPrice: 3990,
         quantity: 1,
         ratings: 1321,
